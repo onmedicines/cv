@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    text-align: center;
+    
+}
+h1{
+    font-size: 90px;
+    margin: 0; 
+    padding-top: 150px;
+    font-family: 'Sacramento', cursive;
+    color: #2F8F9D;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #2F8F9D;
+    font-weight: normal;
+}
+h3{
+    font-size: 2rem;
+    color: #11999E;
+}
+p{
+    display: inline-block;
+    font-size: 1.5rem;
+    color: #11999E;
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+.topCloud{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    right: 18%;
+    top: 150px;
+}
+.bottomCloud{
+    width: 150px;
+    height: 150px;
+    left: 20%;
+    position: absolute;
+}
+.topContainer{
+    background-color: #EFFFFD;
+}
+.profilePic{
+    height: 200px;
+    width: 180px;
+    border-radius: 100%;
+}
+.croc{
+    height: 400px;
+    width: 400px;
+    padding-top: 50px;
+}
+.mainImg{
+    width: 512px;
+    height: 512px;
+}
+.bottomContainer{
+    text-align: center;
+    padding-top: 50px;
+}
+.contact-me{
+    padding: 50px;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #DF7861;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.owner{
+    text-align: center;
+    padding-top: 20px;
+}
+.getInTouchPara{
+    margin-bottom: 20px;
+}
