@@ -20,8 +20,9 @@ h3{
     color: #11999E;
 }
 p{
+    font-family: sans-serif;
     display: inline-block;
-    font-size: 1.5rem;
+    font-size: 20px;
     color: #11999E;
     width: 50%;
     margin-top: 0;
@@ -61,9 +62,6 @@ p{
     text-align: center;
     padding-top: 50px;
 }
-.contact-me{
-    padding: 50px;
-}
 a{
     font-family: 'Montserrat', sans-serif;
     color: #DF7861;
@@ -75,6 +73,37 @@ a{
     text-align: center;
     padding-top: 20px;
 }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px ;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    padding: 80px;
+}
 .getInTouchPara{
-    margin-bottom: 20px;
+    margin-bottom: 35px;
+}
+.contact-me{
+    padding: 50px;
+    padding-bottom: 82px;
+}
+.coding{
+    float: left;
+    padding-right: 100px;
+    position: relative;
+    top: 50px;
+}
+.basketball{
+    float: right;
+    position: relative;
+    right: 35px;
+    top: 25px;
+}
+.chicken{
+    float: left;
+    position: relative;
+    top: 50px;
+    right: 70px;
 }
