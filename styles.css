@@ -8,16 +8,16 @@ h1{
     margin: 0; 
     padding-top: 150px;
     font-family: 'Sacramento', cursive;
-    color: #2F8F9D;
+    color: #257da7;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
-    color: #2F8F9D;
+    color: #d623a3;
     font-weight: normal;
 }
 h3{
     font-size: 2rem;
-    color: #11999E;
+    color: #8f4fbc;
 }
 p{
     font-family: sans-serif;
@@ -30,7 +30,7 @@ p{
 }
 a{
     font-family: 'Montserrat', sans-serif;
-    color: #DF7861;
+    color: #902c15;
     text-decoration: none;
     padding-left: 50px;
     padding-right: 50px;
@@ -38,30 +38,26 @@ a{
 hr{
     margin: 0;
 }
-.topCloud{
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    right: 18%;
-    top: 150px;
-}
-.bottomCloud{
-    width: 150px;
-    height: 150px;
-    left: 20%;
-    position: absolute;
-}
 .topContainer{
     background-color: #EFFFFD;
 }
+.hello{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 270px;
+    top: 20px;
+}
 .profilePic{
-    height: 200px;
+    height: 180px;
     width: 180px;
     border-radius: 100%;
 }
 .mainImg{
     width: 512px;
     height: 512px;
+    position: relative;
+    left: 30px;
 }
 .bottomContainer{
     text-align: center;
@@ -90,9 +86,11 @@ hr{
     padding: 50px;
     padding-bottom: 82px;
 }
-.coding{
+.desktopismycanvas{
+    width: 250px;
+    height: 250px;
     float: left;
-    padding-right: 100px;
+    padding-right: 70px;
     position: relative;
     top: 50px;
 }
@@ -102,7 +100,9 @@ hr{
     right: 35px;
     top: 25px;
 }
-.chicken{
+.music{
+    width: 240px;
+    height: 240px;
     float: left;
     position: relative;
     top: 50px;
